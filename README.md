@@ -16,7 +16,17 @@
 
 <!-- Add your details -->
 
-I am __Gerhard Schick__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Gerhard Schick__, I have 15+ years of experience working in business development, technical support, operations and project management.
+
+Currently I deepening my expertise in Business and Data Analytics with the 6 months RISE program by DigitalBCG. It involves expert knowledge and approaches to solve business problems in a structured and creative data driven way. I’m passionate about improving business operations and making them more efficient using digital transformation and data analytics.
+
+Previously, I worked at KS Trading Intl. as a Director setting up business processes and tools in operations, IT and finances (i.e. MS Access, Xero, WordPress).
+
+In earlier engagements I worked as a Business Development Manager, Project manager and Technical Support Engineer where I was continuously working on analyzing market, customer, and technical data to provide critical insights for the business.
+
+If you catch me outside of work, I’ll be most likely improving my mind, body and soul in different ways from exercises to reading up on nutrition, cooking, mindfulness and science.
+
+Feel free to reach out to me at gerhard_schick@gmx.de
 
 
 <!-- Add link to the sections -->
@@ -24,6 +34,7 @@ I am __Gerhard Schick__, a seasoned data scientist with ~7 years of progressive 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Test](#test) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -84,3 +95,5 @@ Machine Learning by Columbia University
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
+## TEST
+<!-- Add your details -->
