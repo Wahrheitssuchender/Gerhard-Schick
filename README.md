@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Wahrheitssuchender/Gerhard_Schick/main/Pictures/Gerhard%20Schick.jpg)
+![alt text](https://raw.githubusercontent.com/Wahrheitssuchender/Gerhard_Schick/main/Pictures/Gerhard%20Schick%20small.jpg)
 
 <!-- Add your details -->
 
