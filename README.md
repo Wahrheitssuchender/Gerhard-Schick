@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Gerhard Schick__, I have 15+ years of experience working in business development, technical support, operations and project management.
+I am __Gerhard Schick__, with 15+ years of experience working in business development, technical support, operations and project management.
 
 Currently I deepening my expertise in Business and Data Analytics with the 6 months RISE program by DigitalBCG. It involves expert knowledge and approaches to solve business problems in a structured and creative data driven way. I’m passionate about improving business operations and making them more efficient using digital transformation and data analytics.
 
