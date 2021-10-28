@@ -55,13 +55,13 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### Boston Consuting Group <br>
+##### Boston Consuting Group
 RISE Program, Business and Data Analytics 2020 - 2021 <br>
-##### National University of Singapore <br>
+##### National University of Singapore
 MBA 2004-2007 <br>
-##### Massachusetts Institute of Technology (MIT) <br>
+##### Massachusetts Institute of Technology (MIT)
 Thesis Research Exchange Program at the Photonics Systems Group 1999 - 2000 <br>
-##### Aalen University of Technology and Business <br>
+##### Aalen University of Technology and Business
 MSc, Diplom-Ingenieur(FH), Optoelectronics 1995 - 2000 <br>
 
 <!-- EDUCATION Section Ends -->
