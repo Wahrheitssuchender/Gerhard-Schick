@@ -55,10 +55,14 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-RISE Program Business and Data Analytics, Boston Consuting Group 2020 - 2021
-MBA, National University of Singapore, 2004-2007
-MSc, Diplom-Ingenieur(FH), Optoelectronics, 1995 - 2000
+##### Boston Consuting Group <br>
+RISE Program, Business and Data Analytics 2020 - 2021 <br>
+##### National University of Singapore <br>
+MBA 2004-2007 <br>
+##### Massachusetts Institute of Technology (MIT) <br>
+Thesis Research Exchange Program at the Photonics Systems Group 1999 - 2000 <br>
+##### Aalen University of Technology and Business <br>
+MSc, Diplom-Ingenieur(FH), Optoelectronics 1995 - 2000 <br>
 
 <!-- EDUCATION Section Ends -->
 
