@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Gerhard Schick
 description: Bookmark this to keep an eye on my project updates!
+
+navigation:
+- {title: "Projects", file "projects.md"}
+
+external:
+- [title: LinkedIn, icon: LinkedIn, url: " "}
