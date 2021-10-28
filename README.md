@@ -5,7 +5,7 @@
 ✉️: gerhard_schick@gmx.de 
 &nbsp;&nbsp; 📲 +6593671311
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gerhardschick/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Projects](https://wahrheitssuchender.github.io/Gerhard-Schick/Projects)
 
 <!-- CONTACT Section Ends -->
