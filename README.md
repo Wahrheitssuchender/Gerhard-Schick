@@ -56,7 +56,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+RISE Program Business and Data Analytics, Boston Consuting Group 2020 - 2021
+MBA, National University of Singapore, 2004-2007
+MSc, Diplom-Ingenieur(FH), Optoelectronics, 1995 - 2000
 
 <!-- EDUCATION Section Ends -->
 
