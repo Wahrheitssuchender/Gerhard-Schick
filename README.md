@@ -6,7 +6,7 @@
 &nbsp;&nbsp; 📲 +6593671311
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gerhardschick/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {title: "Projects", file: "projects.md"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [File]("projects.md")
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
