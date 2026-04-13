@@ -58,6 +58,9 @@ $size-header-pad: 4em;
 	}
 
 	ol, ul {
+		margin-top: 0;    /* Removes gap before the list */
+  		margin-bottom: 0; /* Removes gap after the list */
+		padding-left: 20px; /* Optional: adjust if bullets disappear after removing margin */
 		list-style:none;
 	}
 
