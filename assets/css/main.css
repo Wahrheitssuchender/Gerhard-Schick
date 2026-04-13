@@ -34,6 +34,8 @@ body {
 }
 
 ol, ul {
+  	margin-top: 0;    /* Removes gap before the list */
+  	margin-bottom: 0; /* Removes gap after the list */
 	list-style: none;
 }
 
