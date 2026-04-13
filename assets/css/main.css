@@ -41,6 +41,11 @@ ol, ul {
 /*	list-style: none; */
 }
 
+/* Reduce gap between paragraph and following list */
+p + ul {
+	margin-top: -1em;
+}
+
 blockquote, q {
 	quotes: none;
 }
